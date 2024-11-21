@@ -63,6 +63,7 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 
 * [The Landscape - Road to KubeCon NA 2024: Adriana Villela](https://www.youtube.com/watch?v=hZRtJV1vmYQ)
 * [O11ycast Ep.#75 - O11yneering with Daniel Ravenstone and Adriana Villela](https://www.heavybit.com/library/podcasts/o11ycast/ep-75-o11yneering-with-daniel-ravenstone-and-adriana-villela)
+* [Scaling Tech Podcast - Adriana Villela of Lightstep: Mastering OpenTelemetry and Observability](https://youtu.be/TsctD9N6YR4?si=nFglHM_IvT8P1gZR)
 * [Cloud Native Podcast Ep14 - OpenTelemetry and the Need For Observability in Cloud Native Stacks at Scale](https://youtu.be/pz1rYVFr-6Q?si=eEuuRAP7JJdzpol-)
 * [Women in Cloud Native - Journey into Tech, OpenTelemetry, and Navigating Different Roles](https://youtu.be/Ws6ougPhIzM?si=byiFfrqQvr9FKfID)
 * [Enlightning - Observability 2.0: Not Just Another Buzzword](https://www.youtube.com/live/WiFoSr54kjM?si=FXSoQqldWjYFH16w)
