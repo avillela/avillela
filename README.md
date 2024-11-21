@@ -10,6 +10,7 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 
 ### Talks
 
+* [Observability Day NA 2024 - When Things Go Sideways: Troubleshooting the OTel Operator](https://youtu.be/cKP7w3hcVLw?si=Zft6ooTS_7DV92OY)
 * [DevOps Days Montreal 2024 - Beyond Platform Engineering](https://youtu.be/a8eomJYDJ88?si=4W1NXTH1JjQK76XX)
 * [Portal Talks 2024 - Onboarding Doesn't Have to Suck](https://youtu.be/Jl3tUIckZT0?si=1SWep1kvV9DqtmGk)
 * [Open Source Summit NA 2024 - Onboarding Doesn't Have to Suck](https://youtu.be/zN6mXIsekoA?si=I_BuL9J5cXnQ4Suy)
