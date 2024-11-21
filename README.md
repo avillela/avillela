@@ -4,6 +4,10 @@
 
 **Adriana Villela** is a Principal Developer Advocate based in Toronto, Canada. She helps companies achieve reliability greatness through Observability, SRE, and DevOps practices. Previously, she managed a Platform Engineering team and an Observability Practices team at Tucows. Adriana has worked at various large-scale enterprises, both as an individual contributor and leader, including Bank of Montreal, Ceridian, and Accenture. Adriana is a [public speaker](https://youtube.com/playlist?list=PL2n5EpcOFZftFNYugZ0HgfJ6e-7uDpuwZ&si=bzfblfKr1v0_gMhb), maintainer of the [OpenTelemetry End User SIG](https://github.com/open-telemetry/sig-end-user/), [blogger](https://adri-v.medium.com), host of the [Geeking Out Podcast](https://bento.me/geekingout), [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) (2023-present), and [HashiCorp Ambassador](https://www.hashicorp.com/ambassadors/directory?q=Villela) (2022-present).
 
+[Connect with me](https://bento.me/adrianamvillela)!
+
+[Check out my podcast](https://bento.me/geekingout)!
+
 ## Talks, Panels, and Podcasts
 
 Listing of Adriana's speaking engagements, webinar appearances, and podcast appearances.
@@ -33,8 +37,10 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 * [Observability Landscape as Code with Terraform](https://youtu.be/ZIXqZwUdXOM?si=lSee5VN4Wv2Lpd_C)
 * [DevTO #92 (2019) - Scaling with Ephemeral Pipelines](https://youtu.be/Y8IhX0F7DyU?si=VdFmdl0r3-xwDMAS)
 
-### Panels
+### Panels & Livestreams
 
+* [Exploring Platform Engineering at KubeCon Salt Lake City | KubeCon SLC 2024](https://techstrong.tv/videos/kubecon-cloudnativecon-north-america-2024/exploring-platform-engineering-at-kubecon-salt-lake-city-kubecon-slc-2024)
+* [The Humans of OpenTelemetry - Live from KubeCon NA 2024](https://www.youtube.com/live/LjD454EPMgQ?si=5IXyYabneV2d0ewz)
 * [Cloud Native Islamabad - KuberTENes Birthday Bash](https://www.youtube.com/live/wb2-eUhHPRc?si=aS-zx0BRiQI1aRsN)
 * [DevOps.com - AI, DevOps, and the Future of Testing Centers of Excellence](https://youtu.be/TZ0euOmz0kU?si=b5f23BdkDcKAJatF)
 * [KubeCon Europe 2024 Highlights - Live Discussion](https://www.youtube.com/live/ncHmqUuWe7I?si=Nsv8i4L_rSneI1Mp)
@@ -43,7 +49,7 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 * [DevOps Institute SkilUP Hours - Toolchain Orchestration](https://youtu.be/6eZfl7Jfnsk?si=4vPjMMnfGXGKILL3)
 * [DevOps Institute SkilUP Hours - Observability with OpenTelemetry](https://www.devopsinstitute.com/skiluphours-observability-jun-2023/)
 * [DevOps Unbound Roundtable - Living at the Intersection Between DevOps and Observability](https://techstrong.tv/videos/devops-unbound/living-at-the-intersection-between-testing-and-observability-devops-unbound-roundtable)
-* [The SRE SHow: Finding the Heart of SRE - How to Build an Empathetic SRE Practice](https://techstrong.tv/videos/the-sre-show/finding-the-heart-of-sre-how-to-build-an-empathetic-sre-practice-the-sre-show-ep-10)
+* [The SRE Show: Finding the Heart of SRE - How to Build an Empathetic SRE Practice](https://techstrong.tv/videos/the-sre-show/finding-the-heart-of-sre-how-to-build-an-empathetic-sre-practice-the-sre-show-ep-10)
 * [Monthly Hashistack Live Chat](https://www.youtube.com/watch?v=OvmQ1TdBlIw)
 * [OpenTelemetry 101 - NewRelic x Honeycomb x Lightstep Livestream](https://www.youtube.com/live/4Aqp5zpPpsU?feature=share)
 * [SLOConf 2023 Panel - What Do SLOs Really Mean?](https://youtu.be/tyP6hy6rT-8?si=Rh-7ZhR5VpMjRrs8)
@@ -55,6 +61,8 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 
 ### Podcasts
 
+* [The Landscape - Road to KubeCon NA 2024: Adriana Villela](https://www.youtube.com/watch?v=hZRtJV1vmYQ)
+* [O11ycast Ep.#75 - O11yneering with Daniel Ravenstone and Adriana Villela](https://www.heavybit.com/library/podcasts/o11ycast/ep-75-o11yneering-with-daniel-ravenstone-and-adriana-villela)
 * [Cloud Native Podcast Ep14 - OpenTelemetry and the Need For Observability in Cloud Native Stacks at Scale](https://youtu.be/pz1rYVFr-6Q?si=eEuuRAP7JJdzpol-)
 * [Women in Cloud Native - Journey into Tech, OpenTelemetry, and Navigating Different Roles](https://youtu.be/Ws6ougPhIzM?si=byiFfrqQvr9FKfID)
 * [Enlightning - Observability 2.0: Not Just Another Buzzword](https://www.youtube.com/live/WiFoSr54kjM?si=FXSoQqldWjYFH16w)
