@@ -1,6 +1,6 @@
 # Talks, Panels, and Podcasts
 
-Listing of my speaking engagements, webinar appearances, and podcast appearances. Updated for 2024 only. Check out YouTube playlists for most recent content.
+Listing of my speaking engagements, webinar appearances, and podcast appearances. Updated for 2024 only. Check out YouTube playlists below for most recent content.
 
 ## Talks
 
