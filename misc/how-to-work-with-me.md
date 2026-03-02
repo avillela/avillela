@@ -5,12 +5,12 @@
 - If you need me in a Slack channel, **always @ me**.  
 - I prefer **Slack over email or meetings** whenever possible.  
 - **Response times:**  
-  - Slack: <1 minute–30 min depending on urgency  
+  - Slack: <1 minute–2 hr depending on urgency  
   - Email: within 1 business day  
   - While traveling for business: replies may take **several hours**  
 - If you tag me in **GitHub, Google Docs, MS Office, or SharePoint**, follow up with a Slack message.  
-- I prefer **reading** over watching videos.  
-- I keep most notifications off; only Slack DMs and @ mentions reach me, and sound is disabled.
+- I prefer **reading** over watching videos.
+- I keep most notifications off; only Slack DMs and @ mentions reach me, and sound is disabled, as I find it triggering
 
 ## 🕒 Availability
 - **Time zone:** Eastern Time (Toronto)  
@@ -20,7 +20,7 @@
 - **Deep work windows:**  
   - Mon–Thu: 12:30–18:00 ET  
   - Fri: 09:00–18:00 ET  
-- I do **not** check Slack or email after **18:00 ET** on weekdays, and **never** on weekends.
+- I do **not** check Slack, email, or socials after **18:00 ET** on weekdays, and **never** on weekends.
 
 ## 🤝 Collaboration
 - I’m happy with **async collaboration**; please keep me updated on progress.  
@@ -29,7 +29,6 @@
 - If you need me to take on a **new task**, I will need to **reprioritize** other work accordingly.  
 - Please give me **sufficient lead time** for tasks. I work quickly, but unexpected things come up.  
 - When I’m focused, I’m fully focused and distract easily, which is why notifications and sounds are off.  
-- I sometimes get **creative inspiration at odd times**—before bed, on walks, or whenever my brain sparks.
 
 ## 🌱 Feedback & Growth
 - I’m **not opposed to change**. I enjoy learning new things, and I’ll pivot quickly if something isn’t working.  
@@ -45,6 +44,7 @@
 ## 😅 Personal Quirks
 - Please excuse my **facial expressions**—I’m told they can be unintentionally weird, and I often don’t realize I’m making them.  
 - I’m **not into formality**. I bring my full self to work, which can include swearing, goofy remarks, and general informality. It’s never meant to offend—if anything, it means I feel comfortable around you.
+- **Inspiration** comes to me at all hours, especially when my mind is relaxed, which means that I'll get an idea while out on a walk, in the shower, or just before bed.
 
 ## 💛 Values
 - I take **pride in my work**.  
