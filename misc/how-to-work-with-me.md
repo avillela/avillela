@@ -5,7 +5,7 @@
 - If you need me in a Slack channel, **always @ me**.  
 - I prefer **Slack over email or meetings** whenever possible.  
 - **Response times:**  
-  - Slack: 10 minutes–2 hours depending on urgency  
+  - Slack: <1 minute–30 min depending on urgency  
   - Email: within 1 business day  
   - While traveling for business: replies may take **several hours**  
 - If you tag me in **GitHub, Google Docs, MS Office, or SharePoint**, follow up with a Slack message.  
